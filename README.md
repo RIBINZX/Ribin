@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++iam+RIBIN;iam+full+stack+developer)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++iam+RIBIN;iam+full+stack+developer)
 
 # Visit 👇
 
